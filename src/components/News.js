@@ -50,7 +50,7 @@ const News = (props) => {
 
         return (
             <>
-                <h1 className="text-center my-4">NewsMonkey - Top Headlines</h1>
+                <h1 className="text-center my-4">NewsDaily - Top Headlines</h1>
                 <div className="my-3 text-center">
                     {loading && <Loader />}
                 </div>
